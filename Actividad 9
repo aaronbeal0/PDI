@@ -1,1 +1,37 @@
-Actividad 9
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Actividad9barra.css">
+    <title>BarradeCarga</title>
+    <body>
+        <div class="loading-bar"></div>
+    </body>
+
+    <body>
+    </body>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Actividad9.css">
+    <title>Actividad 9</title>
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="Actividad9img.css">
+        <title>Tarjeta_Interactiva</title>
+    </head>
+    <body>
+        <div class="card">
+            <img src="https://s1.ppllstatics.com/lasprovincias/www/multimedia/202112/12/media/cortadas/gatos-kb2-U160232243326NVC-1248x770@Las%20Provincias.jpg" alt="Card Image">
+            <p>Tarjeta Interactiva</p>
+        </div>
+    </body>
+</head>
+<body>
+    <div class="button-container">
+        <button class="interactive-button">Hover Me</button>
+        
+    </div>
+</body>
+</html>
