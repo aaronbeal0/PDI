@@ -2,7 +2,7 @@
 header {
     background-color: #7EBFF7;
     color: #ab3535;
-    padding: 10px 0;
+    padding: 20px 0;
 }
 
 nav {
@@ -82,6 +82,12 @@ input[type="password"] {
     margin-bottom: 15px;
     border: 1px solid #ccc;
     border-radius: 5px;
+}
+
+
+
+input[type="submit"]:hover {
+    background-color: #0056b3;
 }
 
 
