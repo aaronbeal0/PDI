@@ -1,0 +1,21 @@
+.animal {
+    border: 2px solid #000;
+    margin: 10px;
+    padding: 10px;
+    width: 500px;
+    height: 500px;
+  }
+  
+  .animal-name {
+    font-size: 20px;
+    text-align: center;
+  }
+  
+  .animal-attribute {
+    margin: 5px 0;
+  }
+  
+  .animal-method {
+    display: block;
+    margin: 5px 0;
+  }
